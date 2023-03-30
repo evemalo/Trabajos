@@ -1,0 +1,5 @@
+print("Curso: Fundamentos de Python")
+print("Estudiante: Evelyn Malo")
+print("Fecha: 30/03/2023\n")
+a=input("Ingrese su nombre: ")
+print(f"Hola {a}")
