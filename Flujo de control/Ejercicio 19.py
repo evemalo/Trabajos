@@ -1,0 +1,6 @@
+print("Curso: Fundamentos de Python")
+print("Estudiante: Evelyn Malo")
+print("Fecha: 30/03/2023\n")
+nombre=input("Ingrese su nombre: ")
+edad=int(input("Ingrese su edad: "))
+print(f"Hola {nombre} tienes {edad} años")
