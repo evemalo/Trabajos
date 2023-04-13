@@ -1,3 +1,6 @@
+print("Curso: Fundamentos de Python")
+print("Estudiante: Evelyn Malo")
+print("Fecha: 11/04/2023\n")
 #EJERCICIOS DE DICCIONARIOS
 #Crear un diccionario vacío:
 alumnos={}
