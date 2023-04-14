@@ -9,8 +9,7 @@ a={1,2,3,4,5,6,7,8,9,10}
 #Crear dos conjuntos, uno con los números pares del 1 al 10 y otro con los impares del 1 al 10. Luego, imprimir los conjuntos y la conexión entre ellos.
 a={2,4,6,8,10}
 b={1,3,5,7,9}
-c=a.union(b)
-print("La union de los conjuntos es:",c)
+print("La union de los conjuntos es:",a.intersection(b))
 #Crear un conjunto con los elementos "manzana", "banana" y "naranja". Luego, pedirle al usuario que ingrese un elemento y determinar si ese elemento se encuentra en el conjunto o no.
 frutas={"manzana", "banana","naranja"}
 print(frutas)
